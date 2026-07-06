@@ -112,18 +112,6 @@ The model is capable of identifying different plant diseases based on visual sym
 
 ---
 
-## 📷 Screenshots
-
-### Home Page
-
-> Add a screenshot here
-
-### Prediction Result
-
-> Add a screenshot here
-
----
-
 ## 📈 Future Improvements
 
 - Support more plant species
@@ -168,7 +156,3 @@ git push origin feature-name
 GitHub: https://github.com/tejasreejilla
 
 ---
-
-## ⭐ Support
-
-If you found this project helpful, please consider giving it a ⭐ on GitHub.

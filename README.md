@@ -122,6 +122,8 @@ The model is capable of identifying different plant diseases based on visual sym
 
 ---
 
+
+
 ## 🤝 Contributing
 
 Contributions are welcome.

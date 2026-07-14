@@ -13,6 +13,7 @@ A Machine Learning and Deep Learning-based web application that detects plant di
 - Fast and accurate predictions
 - Supports multiple plant diseases
 
+
 ---
 
 ## 🛠️ Tech Stack

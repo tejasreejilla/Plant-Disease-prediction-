@@ -2,6 +2,7 @@
 
 A Machine Learning and Deep Learning-based web application that detects plant diseases from leaf images. The model analyzes uploaded images and predicts the disease, helping farmers and gardeners identify plant health issues quickly.
 
+
 ---
 
 

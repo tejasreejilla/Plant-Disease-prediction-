@@ -144,6 +144,7 @@ git checkout -b feature-name
 
 3. Commit your changes
 
+
 ```bash
 git commit -m "Add new feature"
 ```

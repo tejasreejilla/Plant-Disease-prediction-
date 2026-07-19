@@ -49,6 +49,8 @@ Plant-Disease-Prediction/
 
 ---
 
+
+
 ## 🚀 Installation
 
 ### Clone the repository
